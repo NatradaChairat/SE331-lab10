@@ -4,8 +4,10 @@ import camt.cbsd.lab05.dao.CourseDao;
 import camt.cbsd.lab05.dao.StudentDao;
 import camt.cbsd.lab05.entity.Course;
 import camt.cbsd.lab05.entity.Student;
+
 import camt.cbsd.lab05.entity.security.Authority;
 import camt.cbsd.lab05.entity.security.AuthorityName;
+
 import camt.cbsd.lab05.entity.security.User;
 import camt.cbsd.lab05.security.repository.AuthorityRepository;
 import camt.cbsd.lab05.security.repository.UserRepository;
